@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  
+.paper-container{
+    padding: 3rem 3rem;
+    margin: 0 auto 5rem auto;
+}
+
+.css-i7rae6-MuiList-root{
+    padding: 0px !important;
+    margin: 1.2rem !important;
+}
+  
+  
